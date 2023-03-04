@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @asoako98 / Michael Cembrano
 - 👀 I’m interested in Blockchain and backend coding
-- 🌱 I’m currently learning from scratch due to work xd lets start with git to javascript
+- 🌱 I’m currently learning from scratch due to work xd lets start with git to data science
 - 💞️ I’m looking to collaborate on ... not at the moment want to learn ^_^
 - 📫 How to reach me email me at michael.cembrano@gmail.com ;)
 
